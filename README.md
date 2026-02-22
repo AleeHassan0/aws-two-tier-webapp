@@ -67,7 +67,28 @@ Web Server communicates with Database using private IP for secure internal commu
 
 aws-two-tier-webapp/ │ ├── app/ │ └── index.php │ ├── architecture/ │ ├── architecture.md │ └── architecture-diagram.png │ ├── commands/ │ ├── database-setup.md │ └── webserver-setup.md │ ├── screenshots/ │ ├── db-server/ │ └── web-server/ │ └── README.md
 
+ Project Structure
 
+```
+aws-two-tier-webapp/
+│
+├── app/
+│   └── index.php
+│
+├── architecture/
+│   ├── architecture.md
+│   └── architecture-diagram.png
+│
+├── commands/
+│   ├── database-setup.md
+│   └── webserver-setup.md
+│
+├── screenshots/
+│   ├── db-server/
+│   └── web-server/
+│
+└── README.md
+```
 
 ---
 
